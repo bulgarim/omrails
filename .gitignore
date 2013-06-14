@@ -14,5 +14,8 @@
 /log/*.log
 /tmp
 
-#Iganore paperclip uploaded files
+#Ignore paperclip uploaded files
 /public/system
+
+#Ignore sampleimages
+/sampleimages
